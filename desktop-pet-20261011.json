@@ -1,14 +1,22 @@
 {
+  "pet": "finance-finch",
+  "creator": "Astra",
+  "assistant": "OpenAI Codex (GPT-6)",
+  "date": "2026-10-11",
+  "status": "draft",
   "desktop_scale": 0.85,
-  "alpha": "Desktop renderer thresholds partial alpha to prevent magenta color-key flecks",
   "sparkles": false,
   "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
-  "status": "draft",
-  "date": "2026-10-11",
-  "art_files": [],
-  "creator": "Astra",
-  "scale_reference": "Standard 58.75 logical-pixel height, with aspect-ratio width clamp before scaling",
-  "assistant": "OpenAI Codex (GPT-6)",
-  "notes": "Desktop size reduced by 15%.",
-  "pet": "finance-finch"
+  "art_files": [
+    "desktop-art/finance-finch/idle-20261011.png",
+    "desktop-art/finance-finch/blink-20261011.png",
+    "desktop-art/finance-finch/happy-20261011.png",
+    "desktop-art/finance-finch/curious-20261011.png",
+    "desktop-art/finance-finch/worried-20261011.png",
+    "desktop-art/finance-finch/sad-20261011.png",
+    "desktop-art/finance-finch/sick-20261011.png",
+    "desktop-art/finance-finch/alarmed-20261011.png",
+    "desktop-art/finance-finch/sleep-20261011.png"
+  ],
+  "notes": "Yellow wings, orange beak in every pose, balanced face."
 }

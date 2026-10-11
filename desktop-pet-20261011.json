@@ -8,15 +8,16 @@
   "sparkles": false,
   "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
   "art_files": [
-    "desktop-art/finance-finch/idle-20261011.png",
+    "desktop-art/finance-finch/alarmed-20261011.png",
     "desktop-art/finance-finch/blink-20261011.png",
-    "desktop-art/finance-finch/happy-20261011.png",
     "desktop-art/finance-finch/curious-20261011.png",
-    "desktop-art/finance-finch/worried-20261011.png",
+    "desktop-art/finance-finch/happy-20261011.png",
+    "desktop-art/finance-finch/idle-20261011.png",
     "desktop-art/finance-finch/sad-20261011.png",
     "desktop-art/finance-finch/sick-20261011.png",
-    "desktop-art/finance-finch/alarmed-20261011.png",
-    "desktop-art/finance-finch/sleep-20261011.png"
+    "desktop-art/finance-finch/sleep-20261011.png",
+    "desktop-art/finance-finch/worried-20261011.png"
   ],
-  "notes": "Yellow wings, orange beak in every pose, balanced face."
+  "notes": "Yellow wings, balanced orange beak in all poses, forward-facing orange soles.",
+  "source_sheet": "desktop-art/finance-finch/sheet-20261011.png"
 }
